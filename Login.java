@@ -1,7 +1,3 @@
-/**
-*Lema Larsen Osoa
-*
-*/
 package sales;
 
 import java.sql.Connection;
