@@ -1,7 +1,3 @@
-/**
-*Lema Larsen Osoa
-*
-*/
 package sales;
 
 import javafx.beans.property.SimpleDoubleProperty;
